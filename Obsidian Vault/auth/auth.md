@@ -1,0 +1,18 @@
+gcloud auth login 
+4/0Adeu5BXSfaJ-SeP4WJoRhItdnd91U9doFd-JtGTk3S2qW8P5fLVr3tFMDTGtm-aQeePbPg
+4/0AfJohXlhBRM4bCLrko4jjhjwNLmuk6VR_38VvhSjOHPKXowGrWvrjc-iZfH9lQ4wKOYsDA
+
+gcloud auth application default login
+4/0Adeu5BULVcoLZ9sJCDm4FuVdb6Ct0lIlPHci0iGz59ERRtyO2iws3w1gLE24EZdb9oE7wA
+
+Azure devops
+lh2k52jmqlcbv4z555vof2vhrctycfu5ich2lo6ktdumfub7ahra
+
+for debt default prediction repo: q45dl4oq7uogcidvsnzzzzb4vqgwzaeyvlwxtudoyc36urmwkc6a
+rnrfcakwo2nkw4sz4b24juuq6tucbdug6s35n6bcmizi66eiyina
+
+for debt default repo : https://DM-Data-Platform@dev.azure.com/DM-Data-Platform/Debt%20Default%20Prediction/_git/moved__release_gcp_vertex_ai_v2_Debt_Default_Prediction
+qrhhikawapfgg74jigoadpm7dfqu3mv6p6aulahlhl4k3jbpsasq
+
+gcloud clone repo shrimp price prediction 
+62rhrli4awvu4pswcwbrbrqzt276mqied7fowc3yokjfj3d27oca
